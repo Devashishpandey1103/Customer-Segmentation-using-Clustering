@@ -31,6 +31,4 @@ The project follows these steps:
 ## 5. License
 This project is licensed under the MIT License.
 
-## 6. Contact
-For any questions or feedback regarding this project, please contact:
-- **Amit Soni**
+
